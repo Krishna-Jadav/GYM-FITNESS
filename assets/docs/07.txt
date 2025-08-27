@@ -1,0 +1,8 @@
+g++13.cpp : The term 'g++13.cpp' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try 
+again.
+At line:1 char:1
++ g++13.cpp
++ ~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (g++13.cpp:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
